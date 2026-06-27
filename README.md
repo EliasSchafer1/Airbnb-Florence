@@ -32,7 +32,11 @@ poetry install
 
 ### 4. Run notebooks:
 
-Run the notebooks in order: `01_preprocessing.ipynb` → `02_exploration.ipynb` → `03_analysis.ipynb`
+You can either run notebooks directly in you IDE or start JupyterLab:
+
+```
+poetry run jupyter lab
+```
 
 ## Data
 
