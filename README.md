@@ -1,10 +1,10 @@
 # Airbnb Florence
 
-Data Science project exploring the factors that influence Airbnb prices in Florence using statistical analysis and linear regression
+Data Science project exploring which Airbnb listing characteristics are associated with price differences in Florence, using linear regression
 
 ## Research Question
 
-Which factors explain the price differences of Airbnb listings in Florence?
+Which Airbnb listing characteristics are associated with price differences in Florence?
 
 ## Requirements
 
