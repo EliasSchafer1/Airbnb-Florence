@@ -9,6 +9,7 @@ dependencies = [
     "seaborn (>=0.13.2,<0.14.0)",
     "scikit-learn (>=1.8.0,<2.0.0)",
     "statsmodels (>=0.14.6,<0.15.0)",
+    "pyarrow (>=25.0.0,<26.0.0)",
 ]
 
 [build-system]
