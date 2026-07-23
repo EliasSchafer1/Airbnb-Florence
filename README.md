@@ -28,7 +28,10 @@ pyenv local 3.11.8
 ### 3. Install dependencies:
 ```
 poetry install
+poetry run nbstripout --install
 ```
+
+The second command activates a Git filter that strips notebook outputs before committing, keeping diffs readable.
 
 ### 4. Run notebooks:
 
